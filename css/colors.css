@@ -1,0 +1,36 @@
+.bg-color-main {
+    background-color: #497952;
+}
+
+.text-color-main {
+    color: #497952;
+}
+
+.bg-color-main-2 {
+    background-color: #D9E6CC;
+}
+
+.bg-color-second {
+    background-color: #86A58D;
+}
+
+.bg-color-second-2 {
+    background-color: #FAFFFA;
+}
+
+.bg-color-gray {
+    background-color: #F9EDF0;
+}
+
+.font-color {
+    color: #535353;
+}
+
+.font-color:hover {
+    color: #535353;
+}
+
+.font-color-main {
+    color: #497952;
+;
+}
